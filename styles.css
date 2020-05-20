@@ -9,6 +9,7 @@
 body {
     background: #252631;
     font-family: 'Source Sans Pro', sans-serif;
+    min-width: 100%;
 }
 
 header {
